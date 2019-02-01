@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/www/static/media/img-main-3.e4310f15.svg"
   },
   {
-    "revision": "73fb547705457a5b0897",
-    "url": "/www/static/css/main.053b808d.chunk.css"
+    "revision": "5499c4b6f33c7c7c1490",
+    "url": "/www/static/css/main.02b7b92a.chunk.css"
   },
   {
     "revision": "8e1b24ddb72b9b3fa28e",
@@ -24,27 +24,27 @@ self.__precacheManifest = [
     "url": "/www/static/media/img-main-2.4914d7ad.svg"
   },
   {
-    "revision": "73fb547705457a5b0897",
-    "url": "/www/static/js/main.73fb5477.chunk.js"
+    "revision": "5499c4b6f33c7c7c1490",
+    "url": "/www/static/js/main.5499c4b6.chunk.js"
   },
   {
     "revision": "f69540d58626d14b85649ac06a6367ab",
     "url": "/www/static/media/logo.f69540d5.svg"
   },
   {
-    "revision": "ba5f02665e2739f24f6ebe5a2b464980",
-    "url": "/www/static/media/drill-2.ba5f0266.svg"
+    "revision": "b238e07fc91d1a12c0684f1e15acb0b9",
+    "url": "/www/static/media/drill-2-2.b238e07f.svg"
   },
   {
-    "revision": "3f274afc3807efb587ac6a356a21f586",
-    "url": "/www/static/media/drill-3.3f274afc.svg"
+    "revision": "4ce993c5ac751dc5bdcafffe5922e8b9",
+    "url": "/www/static/media/drill-3-2.4ce993c5.svg"
   },
   {
     "revision": "216e3620bd81a7d83ba52f9e69e08e3e",
     "url": "/www/static/media/logo-white.216e3620.svg"
   },
   {
-    "revision": "6ec0a1c70ad22f2d8c504281cf5d5add",
+    "revision": "563533876e12cec98a2b8f2993a210c9",
     "url": "/www/index.html"
   }
 ];
