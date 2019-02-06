@@ -1812,8 +1812,8 @@ lib.properties = {
 	color: "#ED1A3B",
 	opacity: 1.00,
 	manifest: [
-		{src:"../media/ecard_4_4_atlas_.png?1518490916457", id:"ecard_4_4_atlas_"},
-		{src:"../media/music42wav.mp3?1518490916720", id:"music42wav"}
+		{src:"/www/static/media/ecard_4_4_atlas_.png?1518490916457", id:"ecard_4_4_atlas_"},
+		{src:"/www/static/media/music42wav.mp3?1518490916720", id:"music42wav"}
 	],
 	preloads: []
 };
